@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ndebashis
 - 👀 I’m interested in Data Science and Analytics...
 - 🌱 I’ve a fair amount of knowledge in Advanced Excel , Power BI, MySQL and basics of Python
-- 💞️ I’m looking to collaborate on projects on Data Domain
+- 💞️ I’m looking to collaborate on projects in Data Domain
 - 📫 How to reach me ...##ndevunath123@gmail.com
 
 <!---
